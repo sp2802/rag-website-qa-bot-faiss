@@ -28,8 +28,7 @@ Crawl → Clean → Chunk → Embed → Vector DB → Retrieve → Answer
 
 1. Create and activate virtual environment
 
-python -m venv venv  
-source venv/bin/activate   (Mac/Linux)  
+python -m venv venv   
 venv\Scripts\activate    (Windows)
 
 2. Install dependencies
@@ -103,9 +102,9 @@ Request:
 
 ---
 
-## Demo Questions
+## Testing Questions
 
-Use these questions to demonstrate the system:
+I have used questions to test the system:
 
 - What is FastAPI?
 - What is FastAPI mainly used for?
