@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data artifacts (generated)
+data/faiss.index
+data/chunks.json
+data/faq.json
+data/FAQ.md
+data/FAQ.pdf
